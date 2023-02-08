@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @xicofigueiredo
 - 👀 I’m interested in joining a Coding Bootcamp soon.
 - 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on a good environment company.
+- 👥 I’m looking to collaborate on a good environment company.
 - 📫 How to reach me: email: francisco-abf@hotmail.com
 
 <!---
