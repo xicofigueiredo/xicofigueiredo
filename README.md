@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @xicofigueiredo
-- 👀 I’m interested in joining a Coding Bootcamp soon.
-- 🌱 I’m currently learning Python.
+- 👋 Hi, I’m Francisco Figueiredo
+- 👀 I’m currently on a Web Development Coding Bootcamp at Le Wagon.
 - 👥 I’m looking to collaborate on a good environment company.
 - 📫 How to reach me: email: francisco-abf@hotmail.com
 
