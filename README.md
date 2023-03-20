@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Francisco Figueiredo
-- 👀 I’m currently on a Web Development Coding Bootcamp at Le Wagon.
+- 👀 I currently finished a Web Development Coding Bootcamp at Le Wagon.
 - 👥 I’m looking to collaborate on a good environment company.
 - 📫 How to reach me: francisco-abf@hotmail.com
 
