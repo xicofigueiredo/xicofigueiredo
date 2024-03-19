@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Francisco Figueiredo!
 - 👀 Web Development Coding Bootcamp at Le Wagon - Ruby on Rails (March 2023)
-- 👥 Currently learning Angular with Typescript.
+- 👥 Currently learning Angular & ASP.net 
 - 📫 How to reach me: francisco-abf@hotmail.com
 
 <!---
